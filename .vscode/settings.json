@@ -1,0 +1,17 @@
+// {
+//     "python.linting.pylintEnabled": false,
+//     "python.linting.flake8Enabled": true,
+//     "python.linting.enabled": true
+// }
+{
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintPath": "C:/Users/Nani/Documents/dev/my_django/src",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true
+}
